@@ -21,4 +21,14 @@ Need technical support, still no problem for our experienced staff.
 
 Confused with Open Source on the IBM i?
 
-Give us a shout, we would love to natter!
+We have been developing Open Source software for IBM i since the early 2000s and always have time for a natter about Open Source on IBM i.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change to save wasted time.
+
+See the [CONTRIBUTING](CONTRIBUTING.md) file for instructions on how to contribute.
+
+## License
+
+See the [LICENSE](LICENSE.md) file for details.
