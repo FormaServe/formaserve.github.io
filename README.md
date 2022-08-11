@@ -2,20 +2,9 @@
 
 ## 💻 Your IBM i Specialists
 
-FormaServe is a friendly, family run company.
-We are a small team of IT professionals who have been in business for over 32 years. We have a strong reputation for delivering high quality services to our clients.
+FormaServe is a friendly, family run IBM i ISV that has been running for over 30 years.
 
-No matter what you come to FormaServe for, what ever you are spending, we promise that we will work around the clock. Always providing a competitive & satisfactory service that will not only make you come to us to all of your IT needs, but recommend us to your colleagues.
-
-We provide a one-stop place for IT in the UK & Europe.
-
-When value is a concern, FormaServe is your best investment - Welcome to possible!
-
-If you can't find what you are looking for, please get in contact, using the form here. We will respond straight away & do our best to provide anything you require.
-
-From development through to production, we can help get you there smoothly.
-
-Need technical support, still no problem for our experienced staff.
+[Take a look at our website for more information](https://www.formaserve.co.uk)
 
 ## 💻 Your Open Source Specialists
 
@@ -23,11 +12,19 @@ Confused with Open Source on the IBM i?
 
 We have been developing Open Source software for IBM i since the early 2000s and always have time for a natter about Open Source on IBM i.
 
+## 👴 User Groups, Presentations & Workshops
+
+We have been speaking at IBM user groups both in Europe and the US for nearly 20 years.  Our first presentation was at IBM Portsmouth (UK) in 2003.
+
+In 2022, FormaServe was the only non-IBMer speaking at the yearly IBM i Development Day.
+
+Our presentations can be found at [this link](https://github.com/FormaServe/f_Learning/tree/master/User_Groups)
+
 ## 📹 Our Learning Videos
 
 Our IBM i learning videos can be found on our [YouTube Channel](https://www.youtube.com/FormaServeSystemsLtdLoughton)
 
-Subscribe to our YouTube channel to get the latest news &amp; updates on our f_Learning videos at this [link.](https://www.youtube.com/FormaServeSystemsLtdLoughton?sub_confirmation=1 )
+Subscribe to our YouTube channel to get the latest news &amp; updates on our f_Learning videos at this [link](https://www.youtube.com/FormaServeSystemsLtdLoughton?sub_confirmation=1 )
 
 ## 🔗 IBM Customer Stories - FormaServe
 
@@ -35,7 +32,11 @@ Check out IBMs customer stories website, on how we use Open Source on IBM i to s
 
 ## 🔗 Our Published Articles
 
-Checkout our PowerWire IBM i articles - [Click here](https://powerwire.eu/author/andy-youens)
+- Checkout our PowerWire IBM i articles - [Click here](https://powerwire.eu/author/andy-youens)
+
+## 🔗 Other IBM i Open Source Resources
+
+- Checkout IBMs Open Source page, some great stuff there! - [Links here.](https://ibm.github.io/ibmi-oss-resources/)
 
 <p>
   <h2 align="left">☕Support Us</h2>
@@ -53,11 +54,13 @@ Checkout our PowerWire IBM i articles - [Click here](https://powerwire.eu/author
 
 ## 🏠 Location
 
-We are located in London, England.
+- We are located in London, England.
 
 ## 👍 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change to save wasted time.
+Pull requests are welcome for any of our open source projects in the FormaServe GitHub repo.
+
+For major changes, please open an issue first to discuss what you would like to change to save wasted time.
 
 See the [CONTRIBUTING](CONTRIBUTING.md) file for instructions on how to contribute.
 
