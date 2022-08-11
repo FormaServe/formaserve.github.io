@@ -22,9 +22,9 @@ Our presentations can be found at [this link.](https://github.com/FormaServe/f_L
 
 ## 📹 Our Learning Videos
 
-Our IBM i learning videos can be found on our [YouTube Channel](https://www.youtube.com/FormaServeSystemsLtdLoughton)
+Our IBM i learning videos can be found on our [YouTube Channel.](https://www.youtube.com/FormaServeSystemsLtdLoughton)
 
-Subscribe to our YouTube channel to get the latest news &amp; updates on our f_Learning videos at this [link](https://www.youtube.com/FormaServeSystemsLtdLoughton?sub_confirmation=1 )
+Subscribe to our YouTube channel to get the latest news &amp; updates on our f_Learning videos at this [link.](https://www.youtube.com/FormaServeSystemsLtdLoughton?sub_confirmation=1 )
 
 ## 🔗 IBM i Coding Examples
 
