@@ -6,7 +6,7 @@ FormaServe is a friendly, family run IBM i ISV that has been operating successfu
 
 [Take a look at our website for more information](https://www.formaserve.co.uk)
 
-## :worldmap: Your Open Source Specialists
+## ❤️ Your Open Source Specialists
 
 Confused with Open Source on the IBM i?
 
@@ -66,7 +66,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 </p>
 
 
-## :uk: Location
+## 🏢 Location
 
 - We are located in London, England.
 
