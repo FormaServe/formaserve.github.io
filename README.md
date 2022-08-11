@@ -18,13 +18,28 @@ We have been speaking at IBM user groups both in Europe and the US for nearly 20
 
 In 2022, FormaServe was the only non-IBMer speaking at the yearly IBM i Development Day.
 
-Our presentations can be found at [this link](https://github.com/FormaServe/f_Learning/tree/master/User_Groups)
+Our presentations can be found at [this link.](https://github.com/FormaServe/f_Learning/tree/master/User_Groups)
 
 ## 📹 Our Learning Videos
 
 Our IBM i learning videos can be found on our [YouTube Channel](https://www.youtube.com/FormaServeSystemsLtdLoughton)
 
 Subscribe to our YouTube channel to get the latest news &amp; updates on our f_Learning videos at this [link](https://www.youtube.com/FormaServeSystemsLtdLoughton?sub_confirmation=1 )
+
+## 🔗 IBM i Coding Examples
+
+- [Ansible](https://github.com/FormaServe/f_Learning/tree/master/Ansible)
+- [BASH](https://github.com/FormaServe/f_Learning/tree/master/Bash)
+- [IBM i Containers](https://github.com/FormaServe/f_Learning/tree/master/Containers)
+- [DB2](https://github.com/FormaServe/f_Learning/tree/master/DB2)
+- [MariaDB](https://github.com/FormaServe/f_Learning/tree/master/MariaDB)
+- [ODBC](https://github.com/FormaServe/f_Learning/tree/master/ODBC)
+- [Open Source](https://github.com/FormaServe/f_Learning/tree/master/OpenSource)
+- [PHP](https://github.com/FormaServe/f_Learning/tree/master/PHP)
+- [PostgreSQL](https://github.com/FormaServe/f_Learning/tree/master/PostgreSQL)
+- [SSH](https://github.com/FormaServe/f_Learning/tree/master/SSH)
+- [Traditional IBM i Languages](https://github.com/FormaServe/f_Learning/tree/master/Traditional_Languages)
+- [Windows](https://github.com/FormaServe/f_Learning/tree/master/Windows)
 
 ## 🔗 IBM Customer Stories - FormaServe
 
