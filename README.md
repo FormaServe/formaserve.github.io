@@ -2,7 +2,7 @@
 
 ## 💻 Your IBM i Specialists
 
-FormaServe is a friendly, family run IBM i ISV that has been running for over 30 years.
+FormaServe is a friendly, family run IBM i ISV that has been operating successfully for over 30 years.
 
 [Take a look at our website for more information](https://www.formaserve.co.uk)
 
@@ -16,7 +16,7 @@ We have been developing Open Source software for IBM i since the early 2000s and
 
 We have been speaking at IBM user groups both in Europe and the US for nearly 20 years.  Our first presentation was at IBM Portsmouth (UK) in 2003.
 
-In 2022, FormaServe was the only non-IBMer speaking at the yearly IBM i Development Day.
+In 2022, FormaServe was the only non-IBMer speaking at the yearly [IBM i Development Day](https://ideveloperday)].
 
 Our presentations can be found at [this link.](https://github.com/FormaServe/f_Learning/tree/master/User_Groups)
 
@@ -43,7 +43,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 
 ## 🔗 IBM Customer Stories - FormaServe
 
-Check out IBMs customer stories website, on how we use Open Source on IBM i to submit VAT (Value Added Tax) to the UK Government. [Click here.](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/FormaServe-systems/)
+- Check out IBMs customer stories website, on how we use Open Source on IBM i to submit VAT (Value Added Tax) to the UK Government. [Click here.](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/FormaServe-systems/)
 
 ## 🔗 Our Published Articles
 
