@@ -6,15 +6,15 @@ FormaServe is a friendly, family run IBM i ISV that has been operating successfu
 
 [Take a look at our website for more information](https://www.formaserve.co.uk)
 
-## 💻 Your Open Source Specialists
+## :octocat: Your Open Source Specialists
 
 Confused with Open Source on the IBM i?
 
-We have been developing Open Source software for IBM i since the early 2000s and always have time for a natter about Open Source on IBM i.
+We have been using &amp; developing Open Source software for IBM i since the early 2000s &amp; always have time for a natter about Open Source on IBM i.
 
 ## 👴 User Groups, Presentations & Workshops
 
-We have been speaking at IBM user groups both in Europe and the US for nearly 20 years.  Our first presentation was at IBM Portsmouth (UK) in 2003.
+We have been speaking at IBM user groups both in Europe &amp; the US for nearly 20 years.  Our first presentation was at IBM Portsmouth (UK) in 2003.
 
 In 2022, FormaServe was the only non-IBMer speaking at the yearly [IBM i Development Day](https://ideveloperday)].
 
@@ -47,7 +47,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 
 ## 🔗 Our Published Articles
 
-- Checkout our PowerWire IBM i articles - [Click here.](https://powerwire.eu/author/andy-youens)
+- Checkout our PowerWire IBM i articles - [Click here.](https://powerwire.eu/author/&amp;y-youens)
 
 ## 🔗 Other IBM i Open Source Resources
 
@@ -57,7 +57,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
   <h2 align="left">☕Support Us</h2>
   <p>&nbsp;</p>
   <p>
-    <a href="https://ko-fi.com/AndyYouens">
+    <a href="https://ko-fi.com/&amp;yYouens">
       <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="coffee"/>
     </a>
   </p>
@@ -66,10 +66,9 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 </p>
 
 
-
 ## 🏠 Location
 
-- We are located in London, England.
+- We are located in London, Engl&amp;.
 
 ## 👍 Contributing
 
