@@ -1,19 +1,7 @@
 {
-  "host": "galatea",
-  "port": 8161,
-  "user": "andy",
-  "protocol": "MQTT",
   "vsmqtt.brokerProfiles": [
     {
-      "name": "galatea",
-      "url": "http://galatea",
-      "host": "galatea",
-      "port": 8161,
-      "username": "andy",
-      "password": "Uranus12"
-    },
-    {
-      "name": "test",
+      "name": "Galatea IBMi",
       "host": "galatea",
       "port": 1883,
       "clientId": "vsmqtt_client"
