@@ -33,6 +33,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 - [BASH](https://github.com/FormaServe/f_Learning/tree/master/Bash)
 - [IBM i Containers](https://github.com/FormaServe/f_Learning/tree/master/Containers)
 - [DB2](https://github.com/FormaServe/f_Learning/tree/master/DB2)
+- [Git](https://github.com/FormaServe/f_Learning/tree/master/Git)
 - [MariaDB](https://github.com/FormaServe/f_Learning/tree/master/MariaDB)
 - [ODBC](https://github.com/FormaServe/f_Learning/tree/master/ODBC)
 - [Open Source](https://github.com/FormaServe/f_Learning/tree/master/OpenSource)
