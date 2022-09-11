@@ -49,7 +49,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 
 ## 🔗 Our Published Articles
 
-- Checkout our PowerWire IBM i articles - [Click here.](https://powerwire.eu/author/andy-youens)
+- We have been writing articles for the PowerWire publication since 2014.  Please checkout our PowerWire IBM i articles - [Click here.](https://powerwire.eu/author/andy-youens)
 
 ## 🔗 Other IBM i Open Source Resources
 
