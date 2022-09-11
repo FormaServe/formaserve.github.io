@@ -14,9 +14,9 @@ We have been using &amp; developing Open Source software for IBM i since the ear
 
 ## 👴 User Groups, Presentations & Workshops
 
-We have been speaking at IBM user groups both in Europe &amp; US for nearly 20 years.  Our first presentation was at IBM Portsmouth (UK) in 2003.
+We have been speaking at IBM user groups both in Europe &amp; the US for nearly 20 years.  Our first presentation was at IBM Portsmouth (UK) in 2003.
 
-In 2022, FormaServe was the only non-IBMer speaking at the yearly [IBM i Development Day](https://ideveloperday).
+In 2022, FormaServe was the only non-IBMer speaking at the yearly [IBM i Development Day](https://ideveloperday.com).
 
 Our presentations can be found at [this link.](https://github.com/FormaServe/f_Learning/tree/master/User_Groups)
 
