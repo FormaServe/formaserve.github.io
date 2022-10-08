@@ -2,15 +2,19 @@
 
 ## 💻 Your IBM i Specialists
 
-FormaServe is a friendly, family run IBM i ISV that has been operating successfully for over 30 years.
+FormaServe is a friendly, family run IBM i ISV & training company, that has been operating successfully for over 30 years.
 
 [Take a look at our website for more information](https://www.formaserve.co.uk)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQtPrEz09kfRhrKmx9xyGWQ?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/formaserve?style=social)
 
 ## ❤️ Your Open Source Specialists
 
 Confused with Open Source on the IBM i?
 
-We have been using &amp; developing Open Source software for IBM i since the early 2000s &amp; we always have time for a natter about Open Source on IBM i.
+We have been using &amp; developing Open Source software for IBM i since the early 2000s &amp; we always have time for a natter about Open Source on IBM i.  Get in contact!
 
 ## 👴 User Groups, Presentations & Workshops
 
@@ -70,7 +74,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 
 ## 🏢 Location
 
-- We are located in London, England.
+- We are located in London, England UK
 
 ## 👍 Contributing
 
