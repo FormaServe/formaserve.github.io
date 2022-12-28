@@ -39,6 +39,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 - [DB2](https://github.com/FormaServe/f_Learning/tree/master/DB2)
 - [Git](https://github.com/FormaServe/f_Learning/tree/master/Git)
 - [MariaDB](https://github.com/FormaServe/f_Learning/tree/master/MariaDB)
+- [Node-RED](https://github.com/FormaServe/f_Learning/tree/master/NodeRED)
 - [ODBC](https://github.com/FormaServe/f_Learning/tree/master/ODBC)
 - [Open Source](https://github.com/FormaServe/f_Learning/tree/master/OpenSource)
 - [PHP](https://github.com/FormaServe/f_Learning/tree/master/PHP)
@@ -86,4 +87,7 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for instructions on how to contribu
 
 ## 📝 License
 
-See the [LICENSE](LICENSE.md) file for details.
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **© 1990 - 2023 [FormaServe Systems Ltd](https://www.formaserve.co.uk)**
