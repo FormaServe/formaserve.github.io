@@ -64,7 +64,7 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 
 ## 🎉 IBM Power Champion
 
-Congratulations to our chief instructor, Andy Youens, on being awarded an IBM Champion for the third year running!  Excellent news!
+Congratulations to our chief instructor, **Andy Youens**, on being awarded an **IBM Champion** for the third year running!  Excellent news!
 
 <p>
   <h2 align="left">☕Support Us</h2>
