@@ -14,7 +14,7 @@ FormaServe is a friendly, family run IBM i ISV & training company, that has been
 
 ## ❤️ Your Open Source Specialists
 
-Confused with Open Source on the IBM i?
+**Confused with Open Source on the IBM i?**
 
 We have been using &amp; developing Open Source software for IBM i since the early 2000s &amp; we always have time for a natter about Open Source on IBM i.  Get in contact!
 
