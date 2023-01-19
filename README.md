@@ -1,8 +1,10 @@
 # FormaServe
 
+<img src="/images/Logo.png" align="right">
+
 ## 💻 Your IBM i Specialists
 
-FormaServe is a friendly, family run IBM i ISV & training company, that has been operating successfully for over 30 years.
+FormaServe is a friendly, family run IBM i ISV & training company, that has been operating successfully for over 33 years.
 
 [Take a look at our website for more information](https://www.formaserve.co.uk)
 
@@ -59,6 +61,10 @@ Subscribe to our YouTube channel to get the latest news &amp; updates on our f_L
 ## 🔗 Other IBM i Open Source Resources
 
 - Checkout IBMs Open Source page, some great stuff there! - [Links here.](https://ibm.github.io/ibmi-oss-resources/)
+
+## 🎉 IBM Power Champion
+
+Congratulations to our chief instructor, Andy Youens, on being awarded an IBM Champion for the third year running!  Excellent news!
 
 <p>
   <h2 align="left">☕Support Us</h2>
